@@ -1,4 +1,4 @@
 #!/bin/bash
 
-java -Djava.ext.dirs=../lib $i 
+java -Djava.ext.dirs=../lib $1
 
